@@ -1,4 +1,4 @@
-# SOC Automation Project
+# SOC Automation Project using python
 
 A complete Security Operations Center automation environment with:
 - Elastic SIEM for log management
