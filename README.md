@@ -3,7 +3,7 @@
 A complete Security Operations Center automation environment with:
 - Elastic SIEM for log management
 - TheHive for case management
-- Custom Python automation scripts
+- Custom Python automation scripts( Can use or rewrite your own scripts)
 
 ## Setup
 1. Open in GitHub Codespaces
